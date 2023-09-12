@@ -3,7 +3,7 @@
 Neste projeto o objetivo era criar um Hub de portifólios de programadores. O objetivo dessa aplicação é conseguir criar um frontend de qualidade, componetizado e responsivo.
 Aqui o uso do ContexAPI melhorando a performace da aplicação.
 
-# Tecnologias: HTML5, JavaScript (ES6), React (React-router-don/ React-icons/ React-toastify), Hooks, Zod para serialização dos formulários e requizições, Styled-Components
+Tecnologias: HTML5, JavaScript (ES6), React (React-router-don/ React-icons/ React-toastify), Hooks, Zod para serialização dos formulários e requizições, Styled-Components
 
 ## Endpoints:
 | Método | Endpoint                   | Responsabilidade                                  | Autenticação                                       |

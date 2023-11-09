@@ -1,4 +1,4 @@
-# projetosM3_Hud de Portfólio de Programadores
+# projetosM3_Hub de Portfólio de Programadores
 
 Neste projeto o objetivo era criar um Hub de portifólios de programadores. O objetivo dessa aplicação é conseguir criar um frontend de qualidade, componetizado e responsivo.
 Aqui o uso do ContexAPI melhorando a performace da aplicação.
